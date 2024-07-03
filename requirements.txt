@@ -1,0 +1,9 @@
+# install necessary dependencies for Adversarial Imaging project
+
+#### Adversarial robustness toolbox
+adversarial-robustness-toolbox==1.18.0 #==1.16.0
+
+#### Image manipulation
+torchmetrics
+
+ipdb
